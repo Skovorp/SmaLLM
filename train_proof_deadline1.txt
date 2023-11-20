@@ -1,0 +1,1220 @@
+lr: 2.999992597802787e-06
+Epoch 1/1000. train_loss: 5.997934818267822
+Example: all li happ very st the an are lilyorht sadmideome st smilugill atmy time
+lr: 5.9999407825684115e-06
+Epoch 2/1000. train_loss: 5.994770526885986
+Example: ill wh rlpon!"v suck andoneiluv"ouldeltiliriditt plick with i bax forjra manoundide se asted askedc in himill kanppanvedir nevq oncemypvery lo ytveveryppom what
+lr: 8.999800141990272e-06
+Epoch 3/1000. train_loss: 6.001897811889648
+Example: es play ctong himet lily cl starthe iecillill at?"!pow mant wway th?igec? whe treiqarkndmveryar itse him thereouldj friends sa  himy."gheritt started ca goarkec reame k
+lr: 1.1999526265222898e-05
+Epoch 4/1000. train_loss: 5.985720157623291
+Example: of very mell looked theec help you backoodide his k that?ndardam sp outard fr go boyk fromet bec playdted behedoreht sh y bigore star want sp youide be dog lovedectriardayall there r asked wheterve park
+lr: 1.4999074743612454e-05
+Epoch 5/1000. train_loss: 5.97113037109375
+Example: big st namhtck looked not d came namome oed almsidellide helpm bigomhed pal played feltug loved starillxig boainvedhtvery froomrahed sh al w sse butesg askedhed bari!"fulllarood time
+lr: 1.7998401171427278e-05
+Epoch 6/1000. train_loss: 5.948584079742432
+Example: anill fr tre li did aserrex was uponoall of ha at ster mom happ bir y butra wheil youould bired together cl uponke friend o uponlp iit have haet want fun there was momard happy ro birdican
+lr: 2.0997461146588332e-05
+Epoch 7/1000. train_loss: 5.936308860778809
+Example: yet onegetong allfgetheret tre pl canck buty sm but outadotongonayv her smilmvhedide baveim do park couldwayraad! help r tre ygether andon do with help outreked! bigal whenilll up tom time
+lr: 2.39962102713996e-05
+Epoch 8/1000. train_loss: 5.906881809234619
+Example: out lovedul help cl ploodw day came ik oncev side found li ro loo happy " g ba hadv smilhedw o fr wheend girlq fr pardallver sc can are withved started clhedlpp ha lo " in notilyorev onth they
+lr: 2.6994604153278457e-05
+Epoch 9/1000. train_loss: 5.872561454772949
+Example: le. are too mery saw big smomgethervedfulide ster?ame j bppveld akethonimht carhsel lilyi help upimim she l theno backood asked smili aill shent help mezce le fri him
+lr: 2.999259840548597e-05
+Epoch 10/1000. train_loss: 5.85077428817749
+Example: ul happy tre car an fra in  dog not tre dogec tom together n knetit kn kn too happy them up baer therevv shittleic?lpj lookedideardu eamide sm fou when. witzht cmyampp stanpphon me
+lr: 3.299014864785705e-05
+Epoch 11/1000. train_loss: 5.809061050415039
+Example: thatnily upon jvgetherget mommy happygether could tre sm the camead out want cahedld sm loov hisiculet doll kn e andan cat out smil hisilongall up kn okeqmyer they wantedroundghtndf in timmyal i mam
+lr: 3.59872105075306e-05
+Epoch 12/1000. train_loss: 5.767389297485352
+Example: ore up dog an hisan plelow dog bir thomeid dayen e ba was saw wa on help shur frumriing aty omyyilyv upon benardvamgq?im want sa shendntv the looked asked wanted ne  pill friends shat
+lr: 3.898373961967953e-05
+Epoch 13/1000. train_loss: 5.717983245849609
+Example: playul ca upon loo ro out they toy fun caend tom tom sm st play out asked al mairall!."ve didallall want boain lo themongc bigore becth wheame ha cameind happter!lar tideht ril allicing every kn
+lr: 4.1979691628240626e-05
+Epoch 14/1000. train_loss: 5.671048164367676
+Example: playirre isill allkedlpve his outgetful.etilysideu meooallrav felt'end m park wentittle aresident bir an him smil were!ouraum ba birdark su anidealt ma?"et was a iurce uponirl from
+lr: 4.497502218664432e-05
+Epoch 15/1000. train_loss: 5.632284164428711
+Example: ith!" r tim
+lr: 4.796968695854442e-05
+Epoch 16/1000. train_loss: 5.572198390960693
+Example: oo an k helpful namedilyp arent whenryide happy birdooer loo. toose uponnve upon fr feefulide bir friendon a su they fun wanti parkalllyicay?ily herul thatj pl led allil day tim wanted bo fr tre e
+lr: 5.09636416185475e-05
+Epoch 17/1000. train_loss: 5.535715579986572
+Example: up spke theome i star toyhed p friends f ba an dog happ upon wh uponayid fun not is s girl, areway veryend wheot togetherurtingame bird witittlemyved for i man girl every togetherong maallecall treher playent you it an tom
+lr: 5.395684185294232e-05
+Epoch 18/1000. train_loss: 5.48156213760376
+Example: ay scic wasoo upon becomeoreouendurck thereallide was areil wantchld cat!" tim tomidong for tked bir to toy. little baved ucnt loved park wanted mommyld fa played ongst happyardisorful bold a nam k st
+lr: 5.694924336042904e-05
+Epoch 19/1000. train_loss: 5.442577362060547
+Example: oily timmyicvery lo fr at sack up up when they had starteden as from therestay f happked notily sc thenmoreou tim he from mommy so a happ bayic kn sadecvh th bec ckon,ou a kn gch onb n help
+lr: 5.994080185284814e-05
+Epoch 20/1000. train_loss: 5.405094146728516
+Example: ic namq!oundveryer wa i they saw ient sm loo!"m wit little wa s "pp little beo?" sheir the bir saw she staron suet nelpil so t boy th treum loel day sm tim suittle tooked wasir theyig happ all w
+lr: 6.29314730559094e-05
+Epoch 21/1000. train_loss: 5.363387107849121
+Example: happore they tom forpp uponetideke loo c ac fromr whe sadrroundhic named tom fri friendvv ba her al foreco. buten is bird max loved feltpp happych fromou sad timmy themitvumouldendumid manontid r
+lr: 6.592121270992042e-05
+Epoch 22/1000. train_loss: 5.313199996948242
+Example: icq the sawful tre go reend max thatful dog smr liw smis' do e and hae smful bird themside becrien saw at him found friendides ichzinst happuj man a fr. namiou j
+lr: 6.890997657051517e-05
+Epoch 23/1000. train_loss: 5.280672073364258
+Example: m whe carall becve a waver su timooard he becch had on felt aiglpv to was park loved
+lr: 7.189772040938208e-05
+Epoch 24/1000. train_loss: 5.245585918426514
+Example: oful asked a is time fr could airl autou back fri big th ne tooved sad little ca a bird everyatvil a his and b for there in then baent loetin boyar ain pl sad toy funa namoodke catm ba her whe ma you.
+lr: 7.488440001499229e-05
+Epoch 25/1000. train_loss: 5.2093634605407715
+Example: il them
+lr: 7.786997119332716e-05
+Epoch 26/1000. train_loss: 5.1868062019348145
+Example: ark fri when not meound girl box gel lily li. a ball aumrch malv wente very fun, he toould up so e st happind cthot the le for.hed happ is allch,. that catay.r re wmy shat
+lr: 8.085438976860598e-05
+Epoch 27/1000. train_loss: 5.14469051361084
+Example: a?ent beill big cat her hght there max ball uponit ser the friend li friendcevedv wentm loo, he ne tre e jur aard car. tod cl play go shegether day timong that .,myent to but toecu notam upon
+lr: 8.383761158401325e-05
+Epoch 28/1000. train_loss: 5.120675086975098
+Example: li wat sc thereing beendi."u jitt mra day seter back uponi loved but d al c dog said'el theirou. played beat cl pl friendv wantld meqet so toic a whent heittler wit go r timeatoo when when
+lr: 8.681959250242555e-05
+Epoch 29/1000. train_loss: 5.082733631134033
+Example: she upon parkra,get
+lr: 8.980028840713859e-05
+Epoch 30/1000. train_loss: 5.054385662078857
+Example: chilesraind saiditst to t dog sm mommy are kround.end allthittle lily birittle sc offul to all wanted go said" birdoo he found t whe theml helpoundj e g dog.amic are tompp suroundend wa there had k she and
+lr: 9.277965520259334e-05
+Epoch 31/1000. train_loss: 5.015243053436279
+Example: enditt friend went allx le bo d wanted the the asked iarkvery dotved bec ma to all smil cay her, straing!reims
+lr: 9.57576488151024e-05
+Epoch 32/1000. train_loss: 4.984076976776123
+Example: witmyher pl witam lovedke! sheay' mehe playeda uponarily mommy a allood cafn played al car mom and toore,ur we.ilynt the be and go a al onehtelt s found loo atimard looked ne friful o, f
+lr: 9.873422519357588e-05
+Epoch 33/1000. train_loss: 4.954495429992676
+Example: "x frecheltz heht st g she felt.allr cat loved.side lo uponw and wantlp very kn neick a smong. friend pl with named had uponget wanted lily g the she nez dayth played butgether was little m sad to wasse a ma
+lr: 0.00010170934031024694
+Epoch 34/1000. train_loss: 4.931220054626465
+Example: oo lily for le,o.get loo th toay they dos? f,oitt the but theystesing what namedra him ba once momecigon fr cutongh butor maxnt wit ts lily back park upon friends she clw j she it played
+lr: 0.00010468295016139693
+Epoch 35/1000. train_loss: 4.899998188018799
+Example: park do c."chmy out wanta wentgether lis did her wasmy w askedswar to mom was uet themy alvedbes himx, out u to!"an and. for with her "kes a of tos. starig heit to allitt max
+lr: 0.00010765501076808044
+Epoch 36/1000. train_loss: 4.861076354980469
+Example: keall! cl wantur samy butooometed a notv upon happy his herwayent couldraoreke with upons whe thend,. shewaygethergetheride very aark, mom?"at"' could knt she wanted fun little time sheouille wasill
+lr: 0.00011062547817684983
+Epoch 37/1000. train_loss: 4.8296589851379395
+Example: m the upon she everyk ma lirlry day did wassd clone g there me was named man d ailetu ro a the the named theyed, fri tim, her with the fri theve back maryes play friut play. mec park you, parks park
+lr: 0.00011359430846047938
+Epoch 38/1000. train_loss: 4.798555374145508
+Example: rs loo wonehtsideke upon st ball los his uponor bo was carfong ballily very dogxrailyen timmyvery rokeom be they couldght acgether spe upon she felt smilher and but day want th was uard thatgetppill loo loved
+lr: 0.00011656145771868919
+Epoch 39/1000. train_loss: 4.753293514251709
+Example: andame." sp a she'', ism lily wh her me! maxbongom playllou mommy lovedhed played there t need
+lr: 0.00011952688207886867
+Epoch 40/1000. train_loss: 4.7183332443237305
+Example: theuma a played at then wasw,owouldadum ca found loo
+lr: 0.0001224905376967996
+Epoch 41/1000. train_loss: 4.668715953826904
+Example: dayay, they timmyet go' named the ro onceun they did a go hecilore uponround li th wasis loved wantv bec the back." therell a played want.ilyhatpp with park once a a bo upon.u was a with, le
+lr: 0.0001254523807573789
+Epoch 42/1000. train_loss: 4.618793487548828
+Example: on we uponn when, fun theain happy eveou,peneld her ryowilych loved to?" of as,tedum at he but tom heride theoulday felt together i happyeret!"n r the plleed
+lr: 0.00012841236747534085
+Epoch 43/1000. train_loss: 4.563572883605957
+Example: isother, ball sp the timome boyittlefulillor. that playck is veryall not the park happy all there dog want uponoodke together upon bir very theyot theyw were.end is hadititnt b withk sawvedig.es sos upon a girl upon
+lr: 0.00013137045409597896
+Epoch 44/1000. train_loss: 4.502248287200928
+Example: ittle theilmy the bec,? thereilong wasou named happ lilyora wasway at isayad ba was lilyv tooor hisi dogoo is went.ig and ben named li little."p park had' a ne a isilyse e swayve big tom it a
+lr: 0.00013432659689586763
+Epoch 45/1000. train_loss: 4.446719169616699
+Example: es be them happ day an found wantx loveda. came b ma had.. we fe too fittle boying theingnd a itst oncea jendr th her outcun a timmyam together not in oneayvedmy " hadt her u!"zet th..
+lr: 0.0001372807521835829
+Epoch 46/1000. train_loss: 4.381131649017334
+Example: from themvedouldinark wit sm n fribround there were fea sce a lilyvyrave time tim ma wanted.ilyay looked wereoldw s az too was fe momve su timmy one she wasay came oncemy mom smore looadittfulan
+lr: 0.0001402328763004233
+Epoch 47/1000. train_loss: 4.327368259429932
+Example: very ma g an upon cat st. doingood baur andongh wh girl upon happay little
+lr: 0.0001431829256211298
+Epoch 48/1000. train_loss: 4.250457286834717
+Example: itt tajoo beheiel waut a that she mse one c playot happy a wanted happy?et doeretim meor theyes tim of, ballll fr t man to saidisq bec y reesn named withmec one time p r a b w named
+lr: 0.0001461308565546056
+Epoch 49/1000. train_loss: 4.196559429168701
+Example: kirl have bo she ball ben to gk bir their found car,tedon g looked very her once dogindponggether happorra sad
+lr: 0.00014907662554463532
+Epoch 50/1000. train_loss: 4.129798412322998
+Example: ic ma pl fter row?"
+lr: 0.00015202018907060368
+Epoch 51/1000. train_loss: 4.0663161277771
+Example: saw me lop g.irlqith i wh bigv felt there ta theark toygv h spat uponun. ausam the, tomecf withide e w felt lookedly.he play, out,om wh, them help u ha u were very. park
+lr: 0.0001549615036482137
+Epoch 52/1000. train_loss: 4.000518798828125
+Example: friend ech there l f st a he upon aom suidou jful cat a little ym was theyec did m sa ba the
+lr: 0.00015790052583020462
+Epoch 53/1000. train_loss: 3.927382230758667
+Example: m t rong the onside but?ntor sp tre megetherar timeug the k parkind ben when when li tomgether emgke felt theouing not to to feltri can loveditood. ba and,g out timg uponchmyum g whe timmyaim
+lr: 0.00016083721220706883
+Epoch 54/1000. train_loss: 3.859799385070801
+Example: irchoodc a had they loved? toyal saidit st str had namedle al star hisgetk to timmyed lght heru there was said boyued max fromesaall withit wasic had pl sal parkraside andch backthrendterug
+lr: 0.00016377151940776883
+Epoch 55/1000. train_loss: 3.787576913833618
+Example: vedv " happyke happyily a g heritt verya baou me they be oneillr was asor uponhtn she dor theq treing wantlind t girl wasteror timmy baght lileil r to theou to sa lo suingv max
+lr: 0.00016670340410045327
+Epoch 56/1000. train_loss: 3.720707654953003
+Example: toyo little theyser max the man wheside theyi thenilved becorside a her canented them theful the named started thevit a theit wit bo ba play friends were thatugve lilykooda witra mommyuidehed,qet a fr she
+lr: 0.0001696328229931724
+Epoch 57/1000. train_loss: 3.6538586616516113
+Example: ould gv wit r was one what sr named lily wantmy couldor she
+lr: 0.00017255973283459368
+Epoch 58/1000. train_loss: 3.587549924850464
+Example: dog but wit can there whe ne they
+lr: 0.0001754840904147155
+Epoch 59/1000. train_loss: 3.516817569732666
+Example: j alloo namedall loved in not h was dog time haveotseir sadved backra wentur sa lily j the welp loved then smilun!"m g for back atain alrp time happy the boone max ca sm, there wasee little a e lookedi b
+lr: 0.00017840585256558199
+Epoch 60/1000. train_loss: 3.4451138973236084
+Example: of ba knelt and f."itelt st! star the sust mommy helpill felt him ges every
+lr: 0.0001813249761619955
+Epoch 61/1000. train_loss: 3.3797216415405273
+Example: ic doing go a saw!onnigicmickv stain they when helpot on lily. then ca found
+lr: 0.00018424141812223006
+Epoch 62/1000. train_loss: 3.3036224842071533
+Example: r aut uponome uponickh k daynt whenved was the he said girl she theyroundly aoory little c!v sad,
+lr: 0.00018715513540874324
+Epoch 63/1000. train_loss: 3.23783802986145
+Example: eltoog bird wap is was and onem lilyterter g but tomad c whe baw but fromou."een r i cameow to the tre girl named lilyve named askedre ari and want happy in gond. named. sheck was a were wh saw h
+lr: 0.00019006608502888768
+Epoch 64/1000. train_loss: 3.177522897720337
+Example: wanted asked all birght cameelt m max timmy!?" herb oncellver man didkedside asked! a theay' aelore help ha when ta her the park sheillstth found "ily ne lovedunirla park and gongy m upon a little saidun them
+lr: 0.00019297422403562217
+Epoch 65/1000. train_loss: 3.1150920391082764
+Example: citt timmy out there caet tom alj a boyot praicmic park felting back want st the his back thefon fr help herg namedldpp was
+lr: 0.00019587950952822174
+Epoch 66/1000. train_loss: 3.042370319366455
+Example: happ foundck toy witard be! was a little saw but said so c lousittleet the went together askedxfe he do there she named named timmyght
+lr: 0.00019878189865298753
+Epoch 67/1000. train_loss: 2.9835102558135986
+Example: wh bird allted aomee dog wheraly y when c looked happyurtted want parkvilsc man once when tom. lily.gether named wnd ballran.w cughedill f timmy. loved was fa fr ro manal he." not mom be withe
+lr: 0.00020168134860395573
+Epoch 68/1000. train_loss: 2.908073902130127
+Example: ll tomome s frouutallful ma butily had loved st se faxk dogheram andelrylp.re happ meal moundqel, f when dayom and forr went to play..ghtm, she lovedwayay ma g tre play then
+lr: 0.00020457781662360582
+Epoch 69/1000. train_loss: 2.8435137271881104
+Example: canou su wh the c star alun
+lr: 0.00020747126000356846
+Epoch 70/1000. train_loss: 2.779218912124634
+Example: you catittlegether beay once,' named timmyck the s meut "en angetri her lily itard cameig bak haful
+lr: 0.00021036163608533227
+Epoch 71/1000. train_loss: 2.719301223754883
+Example: suball and!ou lily starallck sp was
+lr: 0.0002132489022609503
+Epoch 72/1000. train_loss: 2.6587672233581543
+Example: allecel!" boylp fri uponve ctedi wasut a but mom lily maet was weome loame aen toy inyouldcitilloy
+lr: 0.00021613301597374557
+Epoch 73/1000. train_loss: 2.597046375274658
+Example: scam cat togetherer t tomil."id named the feid big found on named! onever was mommy little
+lr: 0.00021901393471901605
+Epoch 74/1000. train_loss: 2.5312869548797607
+Example: fr upon dre at g mom was you se tre then suside was h star buther her roved and back med toyg suh looked funoodec upon not happy hisveic themom g named the theyr ul upon ar
+lr: 0.00022189161604473857
+Epoch 75/1000. train_loss: 2.464742660522461
+Example: ern e one was a time, tooverht wao timmy was upon tre max w aal man?"s happy up are namedth staroneon named " h new we a j named lily.ter i fun se man her time, little girl named lilyotget once upon hood the
+lr: 0.0002247660175522728
+Epoch 76/1000. train_loss: 2.394786834716797
+Example: went i but
+lr: 0.00022763709689706341
+Epoch 77/1000. train_loss: 2.334468126296997
+Example: dvreirgether wantedindun momv in haveoree max birdk they frij one day,ldvedirl timmyilyec named found se kouingrel a littleve wved. namedd upon aumillk cicark bird  canside." ca he a s
+lr: 0.00023050481178934237
+Epoch 78/1000. train_loss: 2.2839066982269287
+Example: se one cat but the ta lily the al tomld th and everyi couldnd sked star thurwayet his park named loogetherj m lo theumould could was theldraly park namedkirlgo they
+lr: 0.00023336911999483005
+Epoch 79/1000. train_loss: 2.210761308670044
+Example: eetutedq big they happyorv upon a g fe out one timmy happy do lilyg uping sc e loo t playoum d j e lily.ily sawfoone h sutark tre
+lr: 0.0002362299793354357
+Epoch 80/1000. train_loss: 2.1490354537963867
+Example: onceould ha camep theu tre se tomum asked ca timmyvedtet backvget everyet tom shun theiradon happy outien frioo thatugra!ous s c wit andvlpkeq to playo fs thriay. the ba aou
+lr: 0.00023908734768995714
+Epoch 81/1000. train_loss: 2.0880768299102783
+Example: ore once y felt went bute lily very oindend
+lr: 0.00024194118299477948
+Epoch 82/1000. train_loss: 2.0229318141937256
+Example: ha bigon whenway max happy backed su lily tomngethero he timmy me
+lr: 0.00024479144324457343
+Epoch 83/1000. train_loss: 1.9666597843170166
+Example: upon whenendght spur they."
+lr: 0.00024763808649299246
+Epoch 84/1000. train_loss: 1.9040900468826294
+Example: c boypsideorw named lilyhed roompphe and tooecom dog ha and tomq s dog the carou happ lo big timmy, me man named cat
+lr: 0.0002504810708533692
+Epoch 85/1000. train_loss: 1.841413974761963
+Example: said day se butx re!olick sawet was ty was timroundougetet is
+lr: 0.00025332035449941124
+Epoch 86/1000. train_loss: 1.7722692489624023
+Example: ,
+lr: 0.00025615589566589566
+Epoch 87/1000. train_loss: 1.71372389793396
+Example: tedigkadunid lovedel andra sk
+lr: 0.0002589876526493633
+Epoch 88/1000. train_loss: 1.6591311693191528
+Example: when treppor
+lr: 0.0002618155838088117
+Epoch 89/1000. train_loss: 1.6043928861618042
+Example: her rok to boynt little
+lr: 0.0002646396475663873
+Epoch 90/1000. train_loss: 1.5403132438659668
+Example: fr ofonm youeltxj upon and sp ba forlpid. notendily butendraraend they haveidy was fe happy bec anes lour!ou!end himark found s she u once sot happy boy their were time, she satone.
+lr: 0.00026745980240807683
+Epoch 91/1000. train_loss: 1.4867844581604004
+Example: in' lily tre onceor little friends becong?"ill
+lr: 0.00027027600688439785
+Epoch 92/1000. train_loss: 1.4263596534729004
+Example: un and and notri had fa andore toyor and and the andwck toyoree f aendend e ca camedog and st toy and andntet them anden named ofayain li sheillse wereful toysendle went a th and treor was
+lr: 0.00027308821961108826
+Epoch 93/1000. train_loss: 1.3742088079452515
+Example: en ro caritt ta outatum s had loved smil the up mz d ro to nal togetherx, wh c very hil m time, the i iningis ba birdfed c the in iy friend thouound sose beny
+lr: 0.00027589639926979504
+Epoch 94/1000. train_loss: 1.3124982118606567
+Example: upon very svome was veryo was for cl was boy the s but eit buter loved theted a
+lr: 0.000278700504608762
+Epoch 95/1000. train_loss: 1.2658666372299194
+Example: isitt day, there y y spiding what, eame ta
+lr: 0.0002815004944435166
+Epoch 96/1000. train_loss: 1.2085602283477783
+Example: oourid thead onil thex ca asked oncevechved l smil bir roome th his big?"side theec his sm wit a the named tom w the s scer can ted sp from named he could
+lr: 0.0002842963276575557
+Epoch 97/1000. train_loss: 1.1568418741226196
+Example: foow out nam s the s could m a the se oneome
+lr: 0.00028708796320303117
+Epoch 98/1000. train_loss: 1.103488802909851
+Example: timmy, timmy at lickillm spark were soent
+lr: 0.000289875360101433
+Epoch 99/1000. train_loss: 1.0655474662780762
+Example: once h not wh haveark an lookedind whenou
+lr: 0.00029265847744427303
+Epoch 100/1000. train_loss: 1.0075303316116333
+Example: out sh'ill gelome bary upon was
+lr: 0.00029251215286511573
+Epoch 101/1000. train_loss: 0.9560971856117249
+Example: timmyom them le, cameel, there thly. andm upon d playitt when s imu and a lefqbou
+lr: 0.00029236442174854416
+Epoch 102/1000. train_loss: 0.9090220332145691
+Example: onceoore me pvidowrayind big askedome bx sm suat
+lr: 0.00029221528555260475
+Epoch 103/1000. train_loss: 0.8728491067886353
+Example: ne they th door roirlrep
+lr: 0.0002920647457492116
+Epoch 104/1000. train_loss: 0.8269888162612915
+Example: imid is ofickpould out uound s when couldir mommy friselll su whenen the same eood spside they
+lr: 0.0002919128038241318
+Epoch 105/1000. train_loss: 0.7842406630516052
+Example: she her gur upon was veryon rqx asked the parkx tom w c!" timmy! j when max wh upon achsideved c bolyround once uponved she not ning.?" eindiret thatat was so named lily lovedy. she il we you friend
+lr: 0.0002917594612769707
+Epoch 106/1000. train_loss: 0.7429589629173279
+Example: it timmy upomvedvery aendq e he timmyulo?" aill was aut frog
+lr: 0.00029160471962115747
+Epoch 107/1000. train_loss: 0.7070125341415405
+Example: sind lo gr their very max but and " thereec loo wh looked friend thstorenor spouad
+lr: 0.00029144858038392964
+Epoch 108/1000. train_loss: 0.6692949533462524
+Example: ballter upon have felt ro out all sawgn j upon and eher sp s she not she was nam plong catalark he they could
+lr: 0.00029129104510631853
+Epoch 109/1000. train_loss: 0.6339098215103149
+Example: ong theyved timmyrle e plveon upon loo tomongoody s lily big catingher s cy star his
+lr: 0.0002911321153431338
+Epoch 110/1000. train_loss: 0.6004470586776733
+Example: ould did bora playo tom s was k e timmyst foromeer and max andved y wasor y al lovery butheralst s se su helpil forkway fri s namedug so named lily there was so stog u car little girl namedard rea nameditt
+lr: 0.0002909717926629479
+Epoch 111/1000. train_loss: 0.5698351860046387
+Example: he upon a
+lr: 0.0002908100786480811
+Epoch 112/1000. train_loss: 0.5383001565933228
+Example: upon birdreorun named
+lr: 0.0002906469748945853
+Epoch 113/1000. train_loss: 0.5083741545677185
+Example: fe he timmyid very nam once upon was upon catse ba friend max yravain! wasome theick was a littlemy g tome boy lily was
+lr: 0.00029048248301222885
+Epoch 114/1000. train_loss: 0.480333149433136
+Example: x that wasotted witra had tom cat catful went askedwalirl fun feltimom hisily not there was help ne lilyse when help!! withside when ne " mommyal lily lily y wh
+lr: 0.0002903166046244801
+Epoch 115/1000. train_loss: 0.44973355531692505
+Example: couldgetherilluti t k they could
+lr: 0.0002901493413684918
+Epoch 116/1000. train_loss: 0.42757362127304077
+Example: be but he timmy then timmy timmy e doy pl you wh
+lr: 0.00028998069489508474
+Epoch 117/1000. train_loss: 0.40605515241622925
+Example: alloter all whe found not tom send u theyill e upon' aily th
+lr: 0.0002898106668687316
+Epoch 118/1000. train_loss: 0.382988840341568
+Example: saentur
+lr: 0.00028963925896754035
+Epoch 119/1000. train_loss: 0.36243221163749695
+Example: e play theatve thend ator whri an. hisome haveilore together a
+lr: 0.00028946647288323766
+Epoch 120/1000. train_loss: 0.3477232754230499
+Example: ound that at,cill could
+lr: 0.0002892923103211526
+Epoch 121/1000. train_loss: 0.32753124833106995
+Example: ' tre said wheno upon s c wh tim asked feitvis wantedit
+lr: 0.0002891167730001992
+Epoch 122/1000. train_loss: 0.30860695242881775
+Example: once an man upon pl sa he tooreick but timmy was very he was rwll heq he hest hisideillong t cl loo too
+lr: 0.00028893986265285995
+Epoch 123/1000. train_loss: 0.2937111258506775
+Example: seooil friameom happyec,xec whl and wanted e washediug j and friend played j
+lr: 0.0002887615810251687
+Epoch 124/1000. train_loss: 0.2812696397304535
+Example: for himromelysei, wh, upon a ca friend came are,ixj playugw friend,ot asked his nam birdst
+lr: 0.000288581929876693
+Epoch 125/1000. train_loss: 0.2668381631374359
+Example: 
+lr: 0.0002884009109805172
+Epoch 126/1000. train_loss: 0.2549298107624054
+Example: ooouent and and was clmou j want was was ne was was they looked o and s th s sou wasilyse was very se for the was was but loved was timeillver was smilll sheger was on the was played. she wasive and sp "lse
+lr: 0.00028821852612322476
+Epoch 127/1000. train_loss: 0.24047324061393738
+Example: an day tom' dogoood ro andurark came tom and spet in s what buten thou ando h upon a was saerre time, heram fe baard day,es and and " andut smilel had a thenor lo, samaat and max man
+lr: 0.00028803477710488055
+Epoch 128/1000. train_loss: 0.23141057789325714
+Example: veryv they timmy friends andick meick and timmy mommyid andes and sp and and suomth and it but sily was trera toyermst but s friend and tomry st s everyind was sh and mad had f toy wasa had a and had and spa was
+lr: 0.00028784966573901314
+Epoch 129/1000. train_loss: 0.21782977879047394
+Example: h timmy timmy didet very a witra car tim timmy lest named wh anted fa butv. fun him s?"o together was s f!" be but staride but car namedz th named timmy be day, timmy was all
+lr: 0.00028766319385259713
+Epoch 130/1000. train_loss: 0.21368642151355743
+Example: fri came c cate have,eror,es e cat, happind, wh asked, ses, sa too loon
+lr: 0.00028747536328603465
+Epoch 131/1000. train_loss: 0.20034931600093842
+Example: whenoneic cat cets cat he fun we
+lr: 0.0002872861758931376
+Epoch 132/1000. train_loss: 0.185983344912529
+Example: m theitt startedf
+lr: 0.00028709563354110913
+Epoch 133/1000. train_loss: 0.1847289651632309
+Example: an man wantedowenirl once upon wasful catxldget for can found b hiswa
+lr: 0.0002869037381105254
+Epoch 134/1000. train_loss: 0.1760421246290207
+Example: timmy athchoo loent help c wh named timmy the t big named timmy went whe the e looer s
+lr: 0.00028671049149531675
+Epoch 135/1000. train_loss: 0.1698274314403534
+Example: m played can alln came once uponry d didill tom wh timmyim the but thug asked fa s tom was asked se thenside him did loo the s upon a reittittle earould meing fr som once upon a new friendiling onxat he th
+lr: 0.00028651589560274934
+Epoch 136/1000. train_loss: 0.1616067737340927
+Example: all hewayly he c he wra he the hely dog tom were maxpp at the was catra thal wanted the suted sa on butound but he butet
+lr: 0.00028631995235340604
+Epoch 137/1000. train_loss: 0.15388265252113342
+Example: tim andis friend was very wasone was upon was but she was max max the j ma was very that was was was his was r park the sck washerld was very wasved there was she wasx was the wore th so
+lr: 0.0002861226636811675
+Epoch 138/1000. train_loss: 0.14788267016410828
+Example: tom s could but toy timeldst sittilyind,
+lr: 0.0002859240315331935
+Epoch 139/1000. train_loss: 0.14336326718330383
+Example: ben ne timem fa bigoundtedendv madayut ne mam the so the his, tom but he help he ha me up can there was together every
+lr: 0.00028572405786990294
+Epoch 140/1000. train_loss: 0.1392274796962738
+Example: iormheway allv day, theec tom the man theood man t wasily she was you sc
+lr: 0.0002855227446649552
+Epoch 141/1000. train_loss: 0.13188262283802032
+Example: ta can an ha
+lr: 0.00028532009390523037
+Epoch 142/1000. train_loss: 0.12863154709339142
+Example: they pl tre
+lr: 0.00028511610759080966
+Epoch 143/1000. train_loss: 0.1250944584608078
+Example: ly b sust star toentvm his the park cat the c when! eway ball tom for every
+lr: 0.00028491078773495564
+Epoch 144/1000. train_loss: 0.12002111971378326
+Example: very theadind timmyerle the fa. e was very the but of j jlher sc
+lr: 0.0002847041363640923
+Epoch 145/1000. train_loss: 0.1162160113453865
+Example: you was up felt felt her all s cl can when saou whomeug that wasark sch
+lr: 0.00028449615551778536
+Epoch 146/1000. train_loss: 0.11243404448032379
+Example: had had and named and s came but." friend girl they s k max named and tom and upon was and and a meletst timide he and
+lr: 0.0002842868472487217
+Epoch 147/1000. train_loss: 0.10913209617137909
+Example: sp very at saidenv bird gill an was sp at the she was.
+lr: 0.00028407621362268955
+Epoch 148/1000. train_loss: 0.10575462132692337
+Example: an anily wh
+lr: 0.00028386425671855764
+Epoch 149/1000. train_loss: 0.10178191214799881
+Example: play little benen toyre tre felt, wh timmych fun." but he when upon andi, ando very s thor y to play kou named funhe at seary and dra' cetu ha s cat, tom c came boy named max thoreis could play ne
+lr: 0.00028365097862825513
+Epoch 150/1000. train_loss: 0.09856826066970825
+Example: icmou isr day not of ha
+lr: 0.0002834363814567507
+Epoch 151/1000. train_loss: 0.09933481365442276
+Example: an timmyh timmy friend very andid was very whly and and ando? and the sark and when, andou wasendra! s
+lr: 0.00028322046732203165
+Epoch 152/1000. train_loss: 0.0928635224699974
+Example: go and and butlq and said and and and did and lily and and a happy and playeday and and
+lr: 0.0002830032383550835
+Epoch 153/1000. train_loss: 0.09076621383428574
+Example: theryri at the tom m there tom not? hisstet butkedh for treside thevead."
+lr: 0.00028278469669986827
+Epoch 154/1000. train_loss: 0.08857477456331253
+Example: el bigst mommy his."onre timmy mom could butum e atst andst andin and maxvor looked
+lr: 0.00028256484451330403
+Epoch 155/1000. train_loss: 0.08561501652002335
+Example: ly the onceun am
+lr: 0.000282343683965243
+Epoch 156/1000. train_loss: 0.08422286063432693
+Example: o h inum c max a car s whardought when spz was rog wasall they kn j was very was
+lr: 0.0002821212172384505
+Epoch 157/1000. train_loss: 0.08199956268072128
+Example: then. big have feltenentm came theore his whenom dog waon themth tim timmy was veryun was little boy theati baet
+lr: 0.0002818974465285834
+Epoch 158/1000. train_loss: 0.07906027138233185
+Example: enetherhedat ando and and and and fa and and and and and kly? andve and s l was but was on and
+lr: 0.00028167237404416826
+Epoch 159/1000. train_loss: 0.07903189957141876
+Example: et they upon could wasitt e he, tom timmy was he sa, big tom suo was at but he but he tomved theet svea tom friend,o was but there j tomesit was but boy jo wasra wases, tom ball o dog namedmirlr
+lr: 0.0002814460020065795
+Epoch 160/1000. train_loss: 0.07591799646615982
+Example: togetherx a very ben whittle goent could" asked herd came a time,ound butayit was was aside when found was thenvis was loo but dra was wasd she was back wasvntillatedureerryons asy kn upon a littlelp
+lr: 0.0002812183326500179
+Epoch 161/1000. train_loss: 0.07315175980329514
+Example: re meic star veryo was hisirvedx very c dayittle was very ex very upon was big was very was was very ne th was was wked e waset was at the ofong was verynt was at the f of when bec she wases and had bve buten
+lr: 0.000280989368221488
+Epoch 162/1000. train_loss: 0.07292991876602173
+Example: x not." have.ot. timmyouel man upon.ver and happked.
+lr: 0.0002807591109807763
+Epoch 163/1000. train_loss: 0.07110529392957687
+Example: tim very the fun
+lr: 0.0002805275632004288
+Epoch 164/1000. train_loss: 0.06893627345561981
+Example: u max plmhe not be sa dog uponleld g tom
+lr: 0.00028029472716572867
+Epoch 165/1000. train_loss: 0.06746258586645126
+Example: faide gnd upon couldedp he happet he thside tre heoodat help s was whom neome h upon itood re he said s." she loved with ce upon but he there wasall up cater rw friend had manoreueil parkablea
+lr: 0.0002800606051746735
+Epoch 166/1000. train_loss: 0.06618493795394897
+Example: felt st,ulkm happyong se tom e but day friendhal bo fromjlitetomher
+lr: 0.0002798251995379528
+Epoch 167/1000. train_loss: 0.06569159775972366
+Example: they,kestedx" maeder butittle atoot itgether but su m smst hisound
+lr: 0.00027958851257892526
+Epoch 168/1000. train_loss: 0.06453882157802582
+Example: iting timmy timmym catxke crail thent tre bird lovedmong their but eest the smil
+lr: 0.0002793505466335956
+Epoch 169/1000. train_loss: 0.06350129097700119
+Example: named little lo once uponwre whatnt lo back play him.end the s new suit little boyom fe help lily. sak there wasomst hathed whe so
+lr: 0.0002791113040505915
+Epoch 170/1000. train_loss: 0.0620662122964859
+Example: timmycev toyre day witarkra cather lou maxher once uponou c play an.itun a tom but coughtc friendor named timmypp barork max she loved playing what sa starersec upon a neideo everyved aing not
+lr: 0.00027887078719114085
+Epoch 171/1000. train_loss: 0.05984671041369438
+Example: neinayra se!" whe and and and and and and and and tim and and ander and and and and upong and and and and spher and and and and sp and and and loo friends and and and and spill and and and and and and and m and d and and and and
+lr: 0.00027862899842904783
+Epoch 172/1000. train_loss: 0.059263259172439575
+Example: ind smil lelilli upon wanted wh i, cat s is time, catw friend, ba itur
+lr: 0.00027838594015066996
+Epoch 173/1000. train_loss: 0.060420237481594086
+Example: of toved all was an was as was very was there was but was very was do was at max jlp was his was y was play was was very want was was was was was was was was was was was was was was?" was was was was was was c was pug maes butome
+lr: 0.00027814161475489427
+Epoch 174/1000. train_loss: 0.05686819925904274
+Example: al pl uponi time thor have mom hisone oute birech sm not e asked wantedet dogi le have timmy fr dogittleily tre bird " his th himyesore his uponil the san tomotchingll she was anble nalam so m
+lr: 0.0002778960246531138
+Epoch 175/1000. train_loss: 0.05732852593064308
+Example: wheig could liveoodistome timmy lieqittiumindutiil uplch once upon a
+lr: 0.00027764917226920377
+Epoch 176/1000. train_loss: 0.05855640396475792
+Example: v ta r a a started tre a a timeght a car goveryit a time ano was friend aily a wh a time named lily aver c named
+lr: 0.00027740106003949744
+Epoch 177/1000. train_loss: 0.05580110102891922
+Example: roerind upon tim therest the s sad ne up lily t the that smwer bir friendx
+lr: 0.00027715169041276245
+Epoch 178/1000. train_loss: 0.05491504818201065
+Example: but timmymm timmyil daya thely doul! is at go is
+lr: 0.0002769010658501763
+Epoch 179/1000. train_loss: 0.053828753530979156
+Example: timmy big? had timmyad mi, time, could tre toylp sam,st, cat, whum found,
+lr: 0.00027664918882530225
+Epoch 180/1000. train_loss: 0.052302949130535126
+Example: pp "re oute when he frome fr tre s catx for veecve whj came very ce s and
+lr: 0.00027639606182406484
+Epoch 181/1000. train_loss: 0.051364995539188385
+Example: ne an friend happyent when when th was ara
+lr: 0.00027614168734472534
+Epoch 182/1000. train_loss: 0.05092601105570793
+Example: ongve ir wh sce the theved " at iill wasind fr washed upon a momked
+lr: 0.0002758860678978572
+Epoch 183/1000. train_loss: 0.05055439844727516
+Example: ide buti the sill tom
+lr: 0.00027562920600632127
+Epoch 184/1000. train_loss: 0.05031045898795128
+Example: id theved theome wh
+lr: 0.0002753711042052405
+Epoch 185/1000. train_loss: 0.049730125814676285
+Example: li all catood
+lr: 0.00027511176504197565
+Epoch 186/1000. train_loss: 0.047310736030340195
+Example: bo g that m lilyot timwve m wh e th s s mest s very whid said neen help upomeoneard veryi i is felt
+lr: 0.0002748511910760995
+Epoch 187/1000. train_loss: 0.046651292592287064
+Example: once tamutz but timmy waset me timmy timmy ball named toy." named timmy
+lr: 0.00027458938487937186
+Epoch 188/1000. train_loss: 0.046915262937545776
+Example: re then timmyitce but sawou but timmy but s, timmyer feltst his veryongy ro t pl me cst his his friend e k him liecickuerr to e e smil. but timmye could was very j said, asked, cat, wh,
+lr: 0.00027432634903571426
+Epoch 189/1000. train_loss: 0.04783644154667854
+Example: when ta plre tomvetway could friendoreom thou
+lr: 0.00027406208614118424
+Epoch 190/1000. train_loss: 0.045327093452215195
+Example: once alget ta play wh e s see le e friend wh
+lr: 0.0002737965988039499
+Epoch 191/1000. train_loss: 0.044246286153793335
+Example: upon ciroo their toy friend loo foundet j play him ne loved play little upon a ne a wa very s neun a wanted tim named lily was a ne a them haveuth stor cer was was was a
+lr: 0.0002735298896442641
+Epoch 192/1000. train_loss: 0.044057492166757584
+Example: there tom he boym he wh.
+lr: 0.00027326196129443854
+Epoch 193/1000. train_loss: 0.045151736587285995
+Example: little." atid asked wh timmyt her veryntittleor feltved e s svem up s max wh seu bail treitain but but ba go. as can timmy
+lr: 0.00027299281639881786
+Epoch 194/1000. train_loss: 0.043080929666757584
+Example: re toy c her the timmy cong tim everyher little all butitt p ofec t ba,!ouhexved bec notmth sphoful back trees butll the parkl tomful the s smgetly parkenor happ whi up, maxyes boy named
+lr: 0.0002727224576137535
+Epoch 195/1000. train_loss: 0.04232219606637955
+Example: theinad,'ark askededardch asked herorill to there was veryra kec reinder w but upon asked his bird sad and
+lr: 0.0002724508876075776
+Epoch 196/1000. train_loss: 0.04082437977194786
+Example: cat wantedenal big le as whenetted max upon?etill but could
+lr: 0.0002721781090605764
+Epoch 197/1000. train_loss: 0.041137274354696274
+Example: yd dogomemy upon?" was ma friendl si had y fv uponut wasntl was very when treet that?"ilamom g him worill "ra looel
+lr: 0.00027190412466496407
+Epoch 198/1000. train_loss: 0.04094003513455391
+Example: k timmyaded coulded wad
+lr: 0.000271628937124856
+Epoch 199/1000. train_loss: 0.04082227125763893
+Example: loojoreltgenx once upon a sved al th happ?ved a ne a lnd aittle was a sor
+lr: 0.0002713525491562421
+Epoch 200/1000. train_loss: 0.03972332179546356
+Example: boyun ma happy caongside andway s lily and fun k tim but was play namedest
+lr: 0.00027107496348696003
+Epoch 201/1000. train_loss: 0.04003102704882622
+Example: timeitt roilli wh daylp ofing he t he the youst happyveget with his themor  sa anfoul t heer tom toy was there wasvery eirlside th cend gor boy named tom looked kn sat fri what fou?"or that sam
+lr: 0.00027079618285666824
+Epoch 202/1000. train_loss: 0.03910626843571663
+Example: ork uponorun named timmy asked
+lr: 0.00027051621001681914
+Epoch 203/1000. train_loss: 0.03775230422616005
+Example: neul and and and and and andome and and and andm andck all andor and and and and and and and j d fa andeti and and and and upon and and sp and play and car felt and and sp and and and and and not and and and wanted and and and and
+lr: 0.0002702350477306315
+Epoch 204/1000. train_loss: 0.0375402495265007
+Example: the in theveould helpoundget boherv some the somg see w when ofou
+lr: 0.00026995269877306356
+Epoch 205/1000. train_loss: 0.038457244634628296
+Example: oneoorehed cauv caumeround l wa funet thenel named fe at
+lr: 0.0002696691659307856
+Epoch 206/1000. train_loss: 0.037377454340457916
+Example: did theq."ick st m tom wh tom j theecv d tomome tomve al started sick r s pl home was very boy wasindero tom for s go tom e fun i go
+lr: 0.00026938445200215235
+Epoch 207/1000. train_loss: 0.036415476351976395
+Example: eteditt max kn and and and is and tom at and and and and and andid and and was and
+lr: 0.00026909855979717525
+Epoch 208/1000. train_loss: 0.03503393009305
+Example: !" boy al pl timmy cra pl asked t m the fast man for tre tom p treesind said very c mive sp if y wasyomked sa his me when weom star theeceser star cl very tom th cer tomh man j play times!"
+lr: 0.000268811492137495
+Epoch 209/1000. train_loss: 0.03516698256134987
+Example: onceutght her the him then the
+lr: 0.0002685232518563535
+Epoch 210/1000. train_loss: 0.036059532314538956
+Example: illvm c and but asked wasound bec then fr was the sily and tom w lily and ex wasra c cat upon' wasily e the s
+lr: 0.00026823384179856596
+Epoch 211/1000. train_loss: 0.0346735417842865
+Example: at timesideay was then neht was was wh s eome was upon a was was was was up was him wasved beco was was was was washer but was at was was was then was was was water was thentent can was ha wasad themce came onenim was
+lr: 0.0002679432648204928
+Epoch 212/1000. train_loss: 0.03405018150806427
+Example: er the big' jo can uponm a sael
+lr: 0.00026765152379001146
+Epoch 213/1000. train_loss: 0.03379758074879646
+Example: plre hisoo timmy when when timmy but timmymouldend thow but timmy was anm from entide c s
+lr: 0.00026735862158648816
+Epoch 214/1000. train_loss: 0.0342317633330822
+Example: the all spndaletet caram big too y lily' "cmy upon butedryome was eatq
+lr: 0.00026706456110074943
+Epoch 215/1000. train_loss: 0.032831329852342606
+Example: birv anitt happm whenyedill waset was named whitt felt pl was veryerily j but helyted sh iveryitt. met that was was
+lr: 0.0002667693452350535
+Epoch 216/1000. train_loss: 0.033074941486120224
+Example: timmy could timmy loo very timmy timmy but timmyarkal timmy thmayyll whe hism hisore goelt
+lr: 0.0002664729769030618
+Epoch 217/1000. train_loss: 0.03270852938294411
+Example: x upon are he friendsindound jrev whiitt lo sm as j was s jill mir theway sve h named lily was was g the sy
+lr: 0.00026617545902981004
+Epoch 218/1000. train_loss: 0.03259757161140442
+Example: sed cat can it him fri very s upon aes with their veryl from ae plome that askedome play have was tre
+lr: 0.0002658767945516796
+Epoch 219/1000. train_loss: 0.03158722445368767
+Example: tre balloet wh st play named a little s man named wh named sp a j
+lr: 0.00026557698641636835
+Epoch 220/1000. train_loss: 0.031105194240808487
+Example: all named friendit rj max s but ex ex but?vuck togetherk and drand s cat little his friends namedse they felt, and tom w playx itri her named and sparkb named named c feed and str friend i! felt named and the
+lr: 0.00026527603758286146
+Epoch 221/1000. train_loss: 0.0312296524643898
+Example: loo le mom felt youorm and they and upon s car andet wasound there was andarkom!
+lr: 0.00026497395102140247
+Epoch 222/1000. train_loss: 0.03098166733980179
+Example: they timmy, but and dayick theyid s at and had and."g and go and and and fun andong bird and havexam sind named and timmy and tom and andg and and d s sa andted and namked with wanted and sp and sp ando and and s had
+lr: 0.00026467072971346375
+Epoch 223/1000. train_loss: 0.030439944937825203
+Example: an an was e he birdlpun
+lr: 0.0002643663766517172
+Epoch 224/1000. train_loss: 0.030570363625884056
+Example: ceen whe havevedlowst askedst me when lovedherenor herriicko lo ofst was an bir sved butind the sun wasnt
+lr: 0.00026406089484000466
+Epoch 225/1000. train_loss: 0.029675446450710297
+Example: ent timmy that veryittle buttould at had park sa manx birch for w andouldle play her at e was
+lr: 0.0002637542872933083
+Epoch 226/1000. train_loss: 0.030208488926291466
+Example: timmy and and and and and and sp and timmy and and and and and and and and sp and and and kn andj and thatam and and and it and and and and and and and and and was and and s and and and and and ha and and and and and and and and and and and
+lr: 0.00026344655703772077
+Epoch 227/1000. train_loss: 0.029662935063242912
+Example: andelt and and and caen and and." and and and big and and and and and and and friendway and and andl and and not and and happ and and and andr had and they and named and and and and played and and and and and and and and andood and and and and
+lr: 0.00026313770711041556
+Epoch 228/1000. train_loss: 0.02921413630247116
+Example: happy his badst his when the tomed toyghtug' wasend when whenecong ba upon asked hisx tomise mmou was lily was c!" fun ba gohed the sf balls whe sa c dad notll thees with his mom day,
+lr: 0.0002628277405596167
+Epoch 229/1000. train_loss: 0.028784777969121933
+Example: help up,el, veryone cat, could e,lhteterark,
+lr: 0.0002625166604445689
+Epoch 230/1000. train_loss: 0.02869516797363758
+Example: re sad mejer wh neroundnt neore s but smil s s cil witll it s waser' spark askedverom
+lr: 0.00026220446983550734
+Epoch 231/1000. train_loss: 0.02798832580447197
+Example: he sa!ilvqet asked me him time, butent funilyri named tom at b wh asked hisi sadilside upon a newg th le it ho
+lr: 0.00026189117181362733
+Epoch 232/1000. train_loss: 0.027740152552723885
+Example: ong they, pl asked,, go,c, whe, wh upon a'it c the there jxunse asked wh, whore his friend, iardigorun as there l we,
+lr: 0.00026157676947105373
+Epoch 233/1000. train_loss: 0.027703000232577324
+Example: little plk toyreeltan bird tomm go tom! named named max fun namentig but when whenround once upon a timeecur sam
+lr: 0.00026126126591081083
+Epoch 234/1000. train_loss: 0.02738611027598381
+Example: h her tooceat liqing uponilad is timemlr sn for his sp very hel timeside when he le e cameecpick foundowong e snt friould was up he triun " dog friendil for s were playingx it but he th
+lr: 0.0002609446642467914
+Epoch 235/1000. train_loss: 0.02752433344721794
+Example: once an big happy saw was he heent? his cerou his new met happy saw very that loo s upon jght very bird and once upon a
+lr: 0.00026062696760372606
+Epoch 236/1000. train_loss: 0.02707674168050289
+Example: were lem upon whob the together themul wit upon help the sseomeer
+lr: 0.0002603081791171524
+Epoch 237/1000. train_loss: 0.027184054255485535
+Example: theyter upon the at the the s
+lr: 0.000259988301933384
+Epoch 238/1000. train_loss: 0.026555653661489487
+Example: ne s aente a very a little is very ce a was a a a help w a a aittle b a wanted a together a aer a
+lr: 0.0002596673392094796
+Epoch 239/1000. train_loss: 0.02610192447900772
+Example: nean,entuo was, there was th fr the al
+lr: 0.0002593452941132117
+Epoch 240/1000. train_loss: 0.026200972497463226
+Example: back ome thather a max was a go a time,
+lr: 0.0002590221698230354
+Epoch 241/1000. train_loss: 0.026104243472218513
+Example: the out for ater they
+lr: 0.00025869796952805697
+Epoch 242/1000. train_loss: 0.02536720223724842
+Example: reoneut asked sh theill u hisirl when went tom mi could iil tom bir fr was iss the s tomved
+lr: 0.00025837269642800244
+Epoch 243/1000. train_loss: 0.025238847360014915
+Example: once feedj saidal outchoua asked was fr the sm s
+lr: 0.000258046353733186
+Epoch 244/1000. train_loss: 0.025425145402550697
+Example: big
+lr: 0.0002577189446644783
+Epoch 245/1000. train_loss: 0.025326719507575035
+Example: max cam g yvily out srese bird maxre happ maxome not timmy park st w ro but s we buten big ben
+lr: 0.00025739047245327466
+Epoch 246/1000. train_loss: 0.024776197969913483
+Example: letkereomeot itv tomilouver was said cl the s friway sa named the s loved toy creat ro
+lr: 0.00025706094034146315
+Epoch 247/1000. train_loss: 0.02462630532681942
+Example: not star j tim neic every tom ball there the sorill baal torm upenor out
+lr: 0.0002567303515813928
+Epoch 248/1000. train_loss: 0.024609293788671494
+Example: cat togetheril d are when they, timmy could the veryuti for ha!" at the silc boy named
+lr: 0.00025639870943584104
+Epoch 249/1000. train_loss: 0.024753572419285774
+Example: racent ura, timmyittm them d upon mi timmy, timmyli c, fr and uponel, but,, upon friend, ba, but, manl mommy, and the,ound, d,ay, there, his, ta, upon friend,,,,u
+lr: 0.00025606601717798207
+Epoch 250/1000. train_loss: 0.023860787972807884
+Example: ld they veryal then said fr very theheark
+lr: 0.0002557322780913542
+Epoch 251/1000. train_loss: 0.023699520155787468
+Example: the the happ me lilyz ma upon wasiark
+lr: 0.00025539749546982736
+Epoch 252/1000. train_loss: 0.024097062647342682
+Example: etend iend lily go lilyer, play
+lr: 0.0002550616726175709
+Epoch 253/1000. train_loss: 0.024033742025494576
+Example: ! and and and andin and and and and and and and and and and and and and and and and and and and upug and and andst and and and was and
+lr: 0.0002547248128490209
+Epoch 254/1000. train_loss: 0.023485207930207253
+Example: helpre him butst his himorgra tomher want was an wash but play smil friend little boy ne cul once upon a play play itnt asked but friend a loo c
+lr: 0.0002543869194888471
+Epoch 255/1000. train_loss: 0.023479895666241646
+Example: ne butenterke sm wh the s e tom l the theome friend the t the the the the the ex tom upon a the jet is
+lr: 0.0002540479958719207
+Epoch 256/1000. train_loss: 0.023196866735816002
+Example: day, was we catittirun of ba sil
+lr: 0.00025370804534328095
+Epoch 257/1000. train_loss: 0.023098459467291832
+Example: the the tom tom ca help tre they tom
+lr: 0.00025336707125810223
+Epoch 258/1000. train_loss: 0.02275634929537773
+Example: do he morong found he but he he but he he asked he he the there he timmy fr timmy cat hera he tom sp he but he his e upon boy he
+lr: 0.0002530250769816612
+Epoch 259/1000. train_loss: 0.022533321753144264
+Example: theadum themy tom the tomone veryv tomily at friendorell fun tom the li tomou
+lr: 0.0002526820658893033
+Epoch 260/1000. train_loss: 0.02243451587855816
+Example: timmy." oflpittle very scou."en was upon was sp was there
+lr: 0.00025233804136640944
+Epoch 261/1000. train_loss: 0.02253951132297516
+Example: ? maxre sheetceg wassideid was"ter.oodrandmra upily sve sked li lily friend sl
+lr: 0.00025199300680836284
+Epoch 262/1000. train_loss: 0.022302547469735146
+Example: help cat very when happ there wasgether happy s but cat shil timmy was me whe was mommy hised treel hises his t eat  the was tom fri
+lr: 0.0002516469656205153
+Epoch 263/1000. train_loss: 0.021813033148646355
+Example: cat manzll the ma loopper but and tom t' s k parkld was friend upon a big not
+lr: 0.00025129992121815365
+Epoch 264/1000. train_loss: 0.021608663722872734
+Example: e max dog max e the ss c car and tom and and loomyet and tomm friends and wheall andke andamily can and and
+lr: 0.00025095187702646595
+Epoch 265/1000. train_loss: 0.02109193615615368
+Example: le upon friend uponunong wasoneum e found
+lr: 0.000250602836480508
+Epoch 266/1000. train_loss: 0.021122481673955917
+Example: aled helpra asked h at ro wit tomly butind treraoundstom miallw g were looter ne ba tomre asked friend named lilyited and "y loved."ter gameigerheratiabhedround iri hadwayreat help g ben
+lr: 0.00025025280302516895
+Epoch 267/1000. train_loss: 0.02135629951953888
+Example: ent and andis not and and and and ando and and and and and was and and and and and and wasan was was and and and and and and and and and and and and r u andirl and and and and and and and and and and and and and? and and ando
+lr: 0.0002499017801151377
+Epoch 268/1000. train_loss: 0.021277308464050293
+Example: ent ne."outh
+lr: 0.0002495497712148688
+Epoch 269/1000. train_loss: 0.021242685616016388
+Example: allic bo faher wasi the silyre every tom theg in the s upon the!"ouill jet loved help theyk
+lr: 0.00024919677979854776
+Epoch 270/1000. train_loss: 0.02111148275434971
+Example: ne eul the the j tomu tomay tom secved was washe. t the sat j tom too named tom they al tom
+lr: 0.00024884280935005755
+Epoch 271/1000. train_loss: 0.020668355748057365
+Example: the their the tom every tom saw from mommyparkld
+lr: 0.00024848786336294346
+Epoch 272/1000. train_loss: 0.020386889576911926
+Example: re? asked ctou max dadld iiday but them tomor park for tre sa tre! d ba whenong " the found for wasood. tom froming
+lr: 0.0002481319453403791
+Epoch 273/1000. train_loss: 0.020452041178941727
+Example: ."
+lr: 0.0002477750587951318
+Epoch 274/1000. train_loss: 0.019900258630514145
+Example: asked an kn was man upon was ne ne saw was wh was was was wasvve was was was was was upon was was wasnd was was was very was was " was very mommy at there was was was was was was
+lr: 0.00024741720724952754
+Epoch 275/1000. train_loss: 0.020279740914702415
+Example: and and and and dog dog the ta and sad and and ando and and gomy and and and was was up s wit that ma and looked and toy and and a and and and toy and n andirl ando andark sor and friend and had and inor and sp andam and and
+lr: 0.00024705839423541664
+Epoch 276/1000. train_loss: 0.02011195942759514
+Example: fun"re the, i m he they f timmy cameoj felt,ght form, wh timmy helpend s
+lr: 0.0002466986232941387
+Epoch 277/1000. train_loss: 0.01993377134203911
+Example: lougp se came heet saw saj dog named su st named lily he asked asked his named."
+lr: 0.00024633789797648767
+Epoch 278/1000. train_loss: 0.01988033391535282
+Example: the, a time, was a there was on
+lr: 0.00024597622184267673
+Epoch 279/1000. train_loss: 0.019756847992539406
+Example: all but, time, at, gat ma wh fa loosidere bir tre max j d fa wanted the sroundrou
+lr: 0.0002456135984623034
+Epoch 280/1000. train_loss: 0.01934649981558323
+Example: ra loedm friendsch al wh lily yore his pl y max wh friend maxrileal the hexq heal loo loo friendc but he she went mommy. eor girl named max
+lr: 0.0002452500314143141
+Epoch 281/1000. train_loss: 0.01948106475174427
+Example: ne stked are was nam theun waspp ball the onceing upon a the s
+lr: 0.0002448855242869687
+Epoch 282/1000. train_loss: 0.019825024530291557
+Example: max timmy th wantve timmyies timmy f tre park liill i go too big bir s e sung s upon every did whly andul named ne fun all le catay with c with cerumerxched aty and timmy wanted fun on hog and timmy
+lr: 0.00024452008067780533
+Epoch 283/1000. train_loss: 0.019276948645710945
+Example: ould play wh upon was cat was wa j was very wasra was was was very was was was was was was was was was c was wasst was was was was was was wasall she was was she was was wasily wanted there wasst was there was together was wasit wasful sall c
+lr: 0.00024415370419360506
+Epoch 284/1000. train_loss: 0.01895528845489025
+Example: ne askedreghtxxome timmyveden s timmy smil tomv timmy was veryra girl the s tom the j timmy but wh and timmyame can was verystowug friend happ timmy was very whearka his friend upon a his friend suit was very chal water
+lr: 0.00024378639845035576
+Epoch 285/1000. train_loss: 0.019181322306394577
+Example: re boirl timmy out could timmy timmy timmy once timmy timmyim catittark t butedry plad,, timmy timmy, timmy some the s toy."koht timmy, outside, timmy went but, timmy, timmyir, cat, timmy, timmy,, but, could,
+lr: 0.00024341816707321685
+Epoch 286/1000. train_loss: 0.018940215930342674
+Example: ne little kn not and and time upon s and and and w and and andhe and was and and and and s and and and and and and and and and and and and and and and and andget and and and and and and lily and and and and and and fa and and the and and and
+lr: 0.00024304901369648338
+Epoch 287/1000. train_loss: 0.018598835915327072
+Example: the s little boyong at upon aly was a asked sx named a from a was a was tre
+lr: 0.0002426789419635501
+Epoch 288/1000. train_loss: 0.018370525911450386
+Example: h named timmy! pl there when he went sch and and and su cling and and and and and s cl and and and andked fun and but wasx w and but andar andar was and sone and le but and sp and sp and wit and max and and and and wanted
+lr: 0.0002423079555268757
+Epoch 289/1000. train_loss: 0.018806952983140945
+Example: w fri" ne sawen max and thathed want was too askedongv ba tim so wasp they thx w out named s out asked buto was friend played happ st star eum tom was?" was and max was veryndong the some and tom tom was so metill was
+lr: 0.00024193605804794646
+Epoch 290/1000. train_loss: 0.018102534115314484
+Example: reend upon alyen friendonitt was very wasill max
+lr: 0.00024156325319724036
+Epoch 291/1000. train_loss: 0.01832493580877781
+Example: upon big s."i very th
+lr: 0.0002411895446541908
+Epoch 292/1000. train_loss: 0.017952168360352516
+Example: the friend max g the a when what sp but tom upon around
+lr: 0.00024081493610715019
+Epoch 293/1000. train_loss: 0.01775442250072956
+Example: uponre timmy o timmy of s timmy
+lr: 0.0002404394312533537
+Epoch 294/1000. train_loss: 0.01767927221953869
+Example: s catj help u ben outsidex veryi wh sper when wh named but help se kound fun his c boy named named timmy
+lr: 0.00024006303379888255
+Epoch 295/1000. train_loss: 0.017801960930228233
+Example: whenor, cateded andorm can s atet was wh silym, cat dayad boyerhto and but andilyd friend named timmy was play but but sst hisily friendst s time,le playing time, andiselt
+lr: 0.00023968574745862782
+Epoch 296/1000. train_loss: 0.017520176246762276
+Example: oneong tom smihex metit the tom the haill tomre was tom tom tom help trehed m mommy tom upon aw mi
+lr: 0.0002393075759562532
+Epoch 297/1000. train_loss: 0.017736036330461502
+Example: for dayited sm but tom sederuq sill saidted saidway e saday but c bec asked whwayec
+lr: 0.00023892852302415888
+Epoch 298/1000. train_loss: 0.017544182017445564
+Example: ayrir fa but thei tre thou
+lr: 0.00023854859240344416
+Epoch 299/1000. train_loss: 0.017376774922013283
+Example: very e they t
+lr: 0.00023816778784387094
+Epoch 300/1000. train_loss: 0.017426740378141403
+Example: looked whenveryp every timmy trever timmy fun cl timmy timmy
+lr: 0.00023778611310382652
+Epoch 301/1000. train_loss: 0.01722489297389984
+Example: maiare mi m ma st, the t theark j upon jst his sawom loole tomst hisunved hisecittle
+lr: 0.00023740357195028638
+Epoch 302/1000. train_loss: 0.01688455417752266
+Example: allll him lo i whatet a ne a time, so was m camved ated too
+lr: 0.00023702016815877738
+Epoch 303/1000. train_loss: 0.017132440581917763
+Example: uponment uponverifulitt michumardes lou very eitted together everyyes up jet balulpy his u then were he when he tomorm s he torkyould he thou
+lr: 0.0002366359055133401
+Epoch 304/1000. train_loss: 0.016830693930387497
+Example: the and and and ands andor and car andra and and and and and and and and and and was and and and was and and and e and and and and was and and andved and n and and and and and and andp and and was and anditt was ha and and and and
+lr: 0.00023625078780649178
+Epoch 305/1000. train_loss: 0.016980968415737152
+Example: named timmyould car g not what uponoul timloo g treood the sunesog max whher
+lr: 0.00023586481883918858
+Epoch 306/1000. train_loss: 0.01659366674721241
+Example: re t,se the cat,
+lr: 0.00023547800242078854
+Epoch 307/1000. train_loss: 0.01650773361325264
+Example: once all the a time time sm a big
+lr: 0.00023509034236901348
+Epoch 308/1000. train_loss: 0.016426118090748787
+Example: ill nere and and and and and and was and and and and and and andum and and and and tim and and and and and and and and s and and and and and found ando and and and and and and and and and and and andke and and and and and and' and and
+lr: 0.00023470184250991156
+Epoch 309/1000. train_loss: 0.016326691955327988
+Example: sidemyse ro asked were wh went very?ut theyj iil lily but he max wh catay boy named have named timmy
+lr: 0.00023431250667781958
+Epoch 310/1000. train_loss: 0.016656123101711273
+Example: mou could parkx wheld asked was little ben thl whmleumq sve wit stved was ha some c sily
+lr: 0.00023392233871532504
+Epoch 311/1000. train_loss: 0.01646411046385765
+Example: the toy that was r a the wit mad very jer his j was very was birded wasrand her they
+lr: 0.0002335313424732282
+Epoch 312/1000. train_loss: 0.01618572138249874
+Example: once si spil s wh bird the park, help the tom ne." me
+lr: 0.00023313952181050409
+Epoch 313/1000. train_loss: 0.015848441049456596
+Example: m upon tim th waspp was at theg was so happ was wanted at the wasgether waset was was veryside was tom was tre all was was was bl not
+lr: 0.00023274688059426454
+Epoch 314/1000. train_loss: 0.01589125022292137
+Example: g once upon was was a was was was was was was washun was very was was was was was was wasor was was was thutl c was was cat was was was fun was was was was was was was was was on was was was was was was was wasq was whcld
+lr: 0.00023235342269971974
+Epoch 315/1000. train_loss: 0.015751373022794724
+Example: and and and and andr and and and friend and and and and and and and and and and and and they and and and and and and and and t and andg and and and and and and and and and and and and and and and m and help w and and and and and and and and
+lr: 0.00023195915201014035
+Epoch 316/1000. train_loss: 0.015773257240653038
+Example: do saw ie' went cm had upon them s t mi wh tre asked looch with when the s wh s new what plch named timmy m play starchom shside an their mive" mi beant eatvery car namedwayrindittle
+lr: 0.00023156407241681885
+Epoch 317/1000. train_loss: 0.015822775661945343
+Example: once timmy but upon pl ofetght they butmght s timmy whck but man fun i ne bec e mommyam bird."
+lr: 0.00023116818781903134
+Epoch 318/1000. train_loss: 0.01583724282681942
+Example: s happy butorore cat friwayry but tamway w namedillrandm s k his friends ne
+lr: 0.00023077150212399899
+Epoch 319/1000. train_loss: 0.01545367669314146
+Example: rare saw all and d playeden they sawvery at there and max very u andum every andm sh sra funug can and spark areoodood
+lr: 0.00023037401924684946
+Epoch 320/1000. train_loss: 0.01561965886503458
+Example: the they lily oved timmytedug
+lr: 0.00022997574311057827
+Epoch 321/1000. train_loss: 0.015385301783680916
+Example: they theverlden tomi dog toml
+lr: 0.00022957667764601008
+Epoch 322/1000. train_loss: 0.01526135578751564
+Example: do ofetenre toooundhe t tom allj go fr fun saed w."o was wh named tre friend bigirl they could t sed herou what witome th g ba goi started too reac one dayst his friend named happgthy his ha
+lr: 0.00022917682679175994
+Epoch 323/1000. train_loss: 0.015286298468708992
+Example: uloo asked le toyve her g too boy mommyted there was upon loved was wh was se
+lr: 0.00022877619449419436
+Epoch 324/1000. train_loss: 0.015500751323997974
+Example: atst, me wanted the parkend the new s
+lr: 0.0002283747847073923
+Epoch 325/1000. train_loss: 0.0150230061262846
+Example: ne tim asked started sk r max but s s wh askedghtil whil t am askedway s thea wh named timmyong
+lr: 0.00022797260139310638
+Epoch 326/1000. train_loss: 0.014851119369268417
+Example: ne and and and and and and and and and and and and little th was and and and s and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and ando and and and and of and and
+lr: 0.00022756964852072354
+Epoch 327/1000. train_loss: 0.015169503167271614
+Example: ould play h ne aq was a sh asked a timeall ba treesome
+lr: 0.00022716593006722596
+Epoch 328/1000. train_loss: 0.014823061414062977
+Example: brendill al cameore help mommy?v timmy ca timmy timmy wasl."idraittle tomill asked
+lr: 0.00022676145001715174
+Epoch 329/1000. train_loss: 0.014680005609989166
+Example: ch when want max meend can day lox there wanted big was at the themreong dog butved was very max whherth
+lr: 0.00022635621236255567
+Epoch 330/1000. train_loss: 0.014831549488008022
+Example: m timmyin whe the s timmy o timmy went, timmy mom thm ballry tom whe playedwrawmouowittleomheoodmripxoo togetheruil seickreati g at theth friend, tom w toy car,end " scark, wento p
+lr: 0.00022595022110296988
+Epoch 331/1000. train_loss: 0.014842929318547249
+Example: manw fri toy car out jetround max whvetv his was loved the tom was very big tre sp ne neongily upon a
+lr: 0.00022554348024536407
+Epoch 332/1000. train_loss: 0.014559388160705566
+Example: timmy timmy timmym fah
+lr: 0.00022513599380410648
+Epoch 333/1000. train_loss: 0.014487714506685734
+Example: is the the ne theill the s on the sp the s max loo little boy tom  tom the tomx the s bec backm came one day
+lr: 0.0002247277658009236
+Epoch 334/1000. train_loss: 0.014543933793902397
+Example: once saidn upon ne saillmy mom
+lr: 0.00022431880026486112
+Epoch 335/1000. train_loss: 0.014481301419436932
+Example: once upon a
+lr: 0.00022390910123224373
+Epoch 336/1000. train_loss: 0.014543488621711731
+Example: reentoure whpp toyouut lira lit time,v s was tre m s
+lr: 0.0002234986727466355
+Epoch 337/1000. train_loss: 0.014268115162849426
+Example: ittlech timmyi ball lovedone timmyet timmy ball timmy, timmy askedst playore timmyouur spingre, very c sckstmou
+lr: 0.00022308751885879982
+Epoch 338/1000. train_loss: 0.014341785572469234
+Example: ne a have a was a loo aecu a who a kid a time was was a aum was was a
+lr: 0.0002226756436266597
+Epoch 339/1000. train_loss: 0.014303619973361492
+Example: ra he atal timmyraet heam but he out once he he he but he taet he he he he he th they he he timmy but he
+lr: 0.00022226305111525726
+Epoch 340/1000. train_loss: 0.014273755252361298
+Example: her y sh she for s but e upon a play upon a he askeder! upon a the s play c wh named named car a every
+lr: 0.00022184974539671414
+Epoch 341/1000. train_loss: 0.013816189020872116
+Example: nd,v whenldv when the s
+lr: 0.00022143573055019084
+Epoch 342/1000. train_loss: 0.01407180167734623
+Example: happy. timmy.m. max.ain. every th.ecre butm.
+lr: 0.0002210210106618468
+Epoch 343/1000. train_loss: 0.014019150286912918
+Example: spherpp fun at play sc hell when he saw timmy sp c ro wh neendes and a he him timmy was very when he criwb ro sideo was very e y was but he was tre but he th in the s max saw th
+lr: 0.00022060558982479986
+Epoch 344/1000. train_loss: 0.013748488388955593
+Example: ne th every was mommy th there was namedkedly fastes' was ro was tre k e wasx wasend was wasut was was was was' was was was c was was was was was was c was upon was named at was was j s was was was on thenou she was was
+lr: 0.000220189472139086
+Epoch 345/1000. train_loss: 0.013593104667961597
+Example: could smilraxceoream buter but s and tomer and and c and s andhed and help s' ando pl s
+lr: 0.00021977266171161874
+Epoch 346/1000. train_loss: 0.013426118530333042
+Example: thei frm eter theyanmy the and?ou m friend roer whi tre the the plly n whenq tomim play w
+lr: 0.0002193551626561487
+Epoch 347/1000. train_loss: 0.013553266413509846
+Example: loentre ake was a ben was a?" was whked sp was th a was a
+lr: 0.0002189369790932232
+Epoch 348/1000. train_loss: 0.014910015277564526
+Example: ittle the but
+lr: 0.0002185181151501449
+Epoch 349/1000. train_loss: 0.01350712776184082
+Example: once smil but."ound is felt e, a was nam wh the friend friendstouum wasily theec up askedst
+lr: 0.00021809857496093199
+Epoch 350/1000. train_loss: 0.013456020504236221
+Example: reseoo tre timmy upon a whpp
+lr: 0.00021767836266627674
+Epoch 351/1000. train_loss: 0.01516515389084816
+Example: theirome they isel s fri his e the happ tom asked the s funel saily s j wh named tom!"ind ta max saw then asked tre
+lr: 0.00021725748241350486
+Epoch 352/1000. train_loss: 0.016197536140680313
+Example: ra le ha s but wh w!l benore washt but timmyayiside s timmy wentvm soeltotraomeomght it tom up
+lr: 0.00021683593835653442
+Epoch 353/1000. train_loss: 0.013134724460542202
+Example: ra nameder thatoundenom ma hem wh s upon j forre the sil loved to the theou
+lr: 0.0002164137346558352
+Epoch 354/1000. train_loss: 0.013539240695536137
+Example: uponiientetindet the notre car and upon a and j
+lr: 0.00021599087547838727
+Epoch 355/1000. train_loss: 0.013316179625689983
+Example: the tomse the ba tom ro said, upon but j " she was upon a wh happ j egether sun was was very c whore was asked s
+lr: 0.00021556736499763992
+Epoch 356/1000. train_loss: 0.014372496865689754
+Example: m mi as aloundelild m was lily met not me go m played out
+lr: 0.0002151432073934707
+Epoch 357/1000. train_loss: 0.01756587065756321
+Example: ilyit named felt at spould named car timex car st sp and cil and was named and." named d wh happ was very help who?"o was very named lily andh and named was lo namedhe and named lily was was somy in was feltked w friend named and and named
+lr: 0.00021471840685214385
+Epoch 358/1000. train_loss: 0.014255515299737453
+Example: ent." toy and and and the s
+lr: 0.00021429296756626925
+Epoch 359/1000. train_loss: 0.013421795330941677
+Example: itt lily toy waskome the s fr wasvke s she was very wh s max wh w then the tom was very timy washt was e sp
+lr: 0.00021386689373476087
+Epoch 360/1000. train_loss: 0.013256766833364964
+Example: k' upon a a a a aard as ofongun a a time named a beno aer was a a little from a ne a c a was a timeould the a a a
+lr: 0.00021344018956279552
+Epoch 361/1000. train_loss: 0.012875968590378761
+Example: mou tre bigoundget h m upon s named i j day wit tre tre wasd was wasnd was all saw y was up me was upon was washt wasck was p hw friendravore
+lr: 0.00021301285926177092
+Epoch 362/1000. train_loss: 0.013424638658761978
+Example: timmyent timmy and th andx timmy and and se and s and and and and and mommy and and and s sm and and and s and they andg and and and and and and and and and and and and and and and and and andal and and and and and and and and andet smil
+lr: 0.00021258490704926478
+Epoch 363/1000. train_loss: 0.013642382808029652
+Example: ne fr seshe tom outick yourarxiet the forrandil kil boy butoumel bir
+lr: 0.00021215633714899264
+Epoch 364/1000. train_loss: 0.01328366156667471
+Example: ht the the togetherought the the ro upon was very
+lr: 0.00021172715379076627
+Epoch 365/1000. train_loss: 0.014917615801095963
+Example: toyitt uponun was was s was was was
+lr: 0.00021129736121045236
+Epoch 366/1000. train_loss: 0.012977910228073597
+Example: ame atr with th once halk,ome, can' lily asked!"edom wantedark themitardh wh named looked time, there wasonatix smil, asked, herrand, lilyes,xc, lej sad, wh, sa, cat,xc
+lr: 0.00021086696364992996
+Epoch 367/1000. train_loss: 0.013070665299892426
+Example: enra! heet star sa' spet dom wh wh loved st g the
+lr: 0.0002104359653570494
+Epoch 368/1000. train_loss: 0.01245858147740364
+Example: vherent big washt was u se very friend maxg was very c whc but very very e wases was veryl was very c wasy was once upon was
+lr: 0.00021000437058558968
+Epoch 369/1000. train_loss: 0.012615595944225788
+Example: ily tomve felt, go cat ca back t ifoundst his his mommy
+lr: 0.0002095721835952171
+Epoch 370/1000. train_loss: 0.012621887028217316
+Example: an ba when ha leel friendom spark st one dayer outardarkingx there was named sp wentenra
+lr: 0.0002091394086514426
+Epoch 371/1000. train_loss: 0.012917538173496723
+Example: manroundkeraun was very wasut was j was was was was was was was was was was was was was was was was was was was was was was was was was!"st was was was was was wasi was re on was was was was j was was was was was was had was was
+lr: 0.00020870605002558038
+Epoch 372/1000. train_loss: 0.012726523913443089
+Example: ill biget lvar was  but thegether s they theou but car tom the s tom w they funall
+lr: 0.00020827211199470492
+Epoch 373/1000. train_loss: 0.012464998289942741
+Example: q at cat was very wantly play upon was he was thenvv " was very was very was tom was went was was was was very was veryick was was upon was she was was was was very was was named j e was was wasel him was was
+lr: 0.00020783759884160946
+Epoch 374/1000. train_loss: 0.012442863546311855
+Example: et the tom theen the fa ne they tomnood at se boy canum the s tom m whhe upon a big
+lr: 0.00020740251485476345
+Epoch 375/1000. train_loss: 0.012262417934834957
+Example: ent kone friim upon aic tom was wh named upon was wh asked was was hish upon aone was a tim was waspp was wa every was him was a neld c was named there was was was a
+lr: 0.00020696686432827017
+Epoch 376/1000. train_loss: 0.012150529772043228
+Example: funid?" wantou cat was very cry very wh the saw neit washet that was very was veryid was very but that was
+lr: 0.00020653065156182437
+Epoch 377/1000. train_loss: 0.01213403232395649
+Example: max a biggether was a time timeside was a a was k was onong star wasvke! was tre at was very th was was
+lr: 0.00020609388086067002
+Epoch 378/1000. train_loss: 0.012147811241447926
+Example: owl carch, upon was was came was wasside was sx was timmy was was started was was
+lr: 0.00020565655653555765
+Epoch 379/1000. train_loss: 0.01227767113596201
+Example: re smil friend ne thouet baentra.mend the s fromth butmou
+lr: 0.00020521868290270166
+Epoch 380/1000. train_loss: 0.012322915717959404
+Example: ain dayent timmy wasam ro was whe was wh u tim fe. tom was was timmy was very was but e tom wasv werev the was very she did fores!" me was wasce was very' dog they wasil mad she was namedo was very it but he asked so
+lr: 0.00020478026428373818
+Epoch 381/1000. train_loss: 0.012203524820506573
+Example: ent the the the sp' littleed help the cl e the the theill'." came tom dog tom the tom nam tomve at tomved
+lr: 0.00020434130500568184
+Epoch 382/1000. train_loss: 0.012034132145345211
+Example: uponfor  timmy c th theentreel back when cat couldenormou
+lr: 0.0002039018094008836
+Epoch 383/1000. train_loss: 0.011997814290225506
+Example: veronound wa theill when his toy lookedi gound time, timmy wentstesily s me ba the s
+lr: 0.00020346178180698758
+Epoch 384/1000. train_loss: 0.011864370666444302
+Example: sp upon was very was j was tom the then was upon tom was was was was was was was was was j was tom was
+lr: 0.00020302122656688858
+Epoch 385/1000. train_loss: 0.011827233247458935
+Example: re timmyll timmymfter h t ben youat timmy sa timmy playgether are wh s s but e but
+lr: 0.00020258014802868884
+Epoch 386/1000. train_loss: 0.011703019961714745
+Example: ba trehermou y but the upon d m
+lr: 0.00020213855054565551
+Epoch 387/1000. train_loss: 0.011659849435091019
+Example: ent.ldvient. happm. uponet wantilyrem arell park ball onome s at the sittle upon
+lr: 0.00020169643847617756
+Epoch 388/1000. train_loss: 0.011630150489509106
+Example: ght the the e the ciful
+lr: 0.00020125381618372245
+Epoch 389/1000. train_loss: 0.011525539681315422
+Example: un cil the theou
+lr: 0.00020081068803679371
+Epoch 390/1000. train_loss: 0.011412380263209343
+Example: happyy" happy but timmyad when can tent go
+lr: 0.00020036705840888706
+Epoch 391/1000. train_loss: 0.011631169356405735
+Example: played the boy fr little but mommy there was very tre tom tim upon be parkl re was they the s
+lr: 0.000199922931678448
+Epoch 392/1000. train_loss: 0.011285797692835331
+Example: timeentvin sple allent went sad wh w butecelt little every
+lr: 0.00019947831222882792
+Epoch 393/1000. train_loss: 0.011311179958283901
+Example: once do at ne timmy all but timmyck a upon ax but timmy
+lr: 0.0001990332044482414
+Epoch 394/1000. train_loss: 0.011428174562752247
+Example: max camelp canoom waso was one day, lily wask
+lr: 0.0001985876127297224
+Epoch 395/1000. train_loss: 0.011365297250449657
+Example: eli she mi car wh for sved and was was fa andun was e m maxst, th jhe and not" they
+lr: 0.0001981415414710814
+Epoch 396/1000. train_loss: 0.011173401959240437
+Example: etre asked he the jum tom the can every tom tom the g st m every friendardesrand g tom tom loit
+lr: 0.00019769499507486167
+Epoch 397/1000. train_loss: 0.010995007120072842
+Example: once fe t iway me saidind sse very?" but
+lr: 0.0001972479779482957
+Epoch 398/1000. train_loss: 0.011206199415028095
+Example: ill wanted heitt hee m he saw he is hera cat he he heir heal s hee he he th he a he he he he he he he man he he he he he he not he hese he he he he saw he he heal he he he thve he he
+lr: 0.00019680049450326222
+Epoch 399/1000. train_loss: 0.011250907555222511
+Example: the fa held tom the ne tom boyht h but tom and tom and tom s tom and tom friend s sh andet lily and sp dogug and th andle little waset whi and they andum the sor then s in the s
+lr: 0.0001963525491562421
+Epoch 400/1000. train_loss: 0.01107346173375845
+Example: bo mi up heong he he th sp he coulday he he c he max e he he e he he he he lily he he he he he he he he th he tom he heor he fromside he healyd he he he he he he he e he he fun he he
+lr: 0.00019590414632827513
+Epoch 401/1000. train_loss: 0.011283498257398605
+Example: hou t but theou
+lr: 0.0001954552904449161
+Epoch 402/1000. train_loss: 0.011052894406020641
+Example: alloo wh time m looen d tom upon a time,st s a a time m and
+lr: 0.00019500598593619143
+Epoch 403/1000. train_loss: 0.01079547218978405
+Example: sgether the sf happ daystall friend named
+lr: 0.00019455623723655521
+Epoch 404/1000. train_loss: 0.011068660765886307
+Example: re wanted at and and andlway and andn and and and and and and time and and and and and and and and and and and and and and and and but and and and and and and and and and and and and and and and and and and and and and and and and and andht
+lr: 0.0001941060487848456
+Epoch 405/1000. train_loss: 0.011052754707634449
+Example: an smil h wasq ne he smil but he he tom little boy heved wh he once upon foundw cat heow is
+lr: 0.00019365542502424078
+Epoch 406/1000. train_loss: 0.010805272497236729
+Example: ." timmyam fe and andad and andet and and and and and and and and and and and and and and ball and and and and and and and and and and and and c ander and and and and and and and and andou and and and and and and and and and and and and
+lr: 0.00019320437040221534
+Epoch 407/1000. train_loss: 0.010774709284305573
