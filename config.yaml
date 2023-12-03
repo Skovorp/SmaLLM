@@ -1,16 +1,17 @@
 dataset: 
   data_file: /home/ubuntu/data/data00.json
   sp_model_prefix: bpe
-  limit: 16
-  vocab_size: 300
-  max_length: 64
+  limit: null
+  vocab_size: 4000
+  max_length: 256
 training:
   batch_size: 16
   lr: 3.0e-4
   num_epochs: 1000
-  warmup_steps: 100
+  warmup_steps: 500
+  epoch_size: 50
 model:
-  embed_dim: 256
-  hidden_size: 512
+  embed_dim: 768
+  hidden_size: 2048
   n_transformer_blocks: 4
   n_heads: 8

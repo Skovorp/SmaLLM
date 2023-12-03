@@ -1,14 +1,16 @@
+### FILE FROM ANECDOTE HW
+
 import torch
 from typing import Type
 from torch import nn
 from dataset import TextDataset
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 from torch.distributions.categorical import Categorical
-from utils import PositionalEncoding
 
 
-class TransformerLanguageModel(nn.Module):
-    def __init__(self, dataset: TextDataset, embed_dim, hidden_size, n_transformer_blocks, n_heads, **kwargs):
+class RNNLanguageModel(nn.Module):
+    def __init__(self, dataset: TextDataset, embed_size: int = 256, hidden_size: int = 256,
+                 rnn_type: Type = nn.RNN, rnn_layers: int = 1):
         """
         Model for text generation
         :param dataset: text data dataset (to extract vocab_size and max_length)
@@ -18,31 +20,49 @@ class TransformerLanguageModel(nn.Module):
         :param rnn_layers: number of layers in RNN
         """
         super().__init__()
+        # super(LanguageModel, self).__init__()
         self.dataset = dataset  # required for decoding during inference
         self.vocab_size = dataset.vocab_size
         self.max_length = dataset.max_length
         self.hidden_size = hidden_size
-
-        self.embedding = nn.Embedding(self.vocab_size, embed_dim, dataset.pad_id)
-        self.pos_encoding = PositionalEncoding(embed_dim, dataset.max_length)
-        decoder_layer = nn.TransformerDecoderLayer(
-            d_model=embed_dim, 
-            nhead=n_heads,
-            dim_feedforward=hidden_size,
-            batch_first=True)
-
-        self.decoder_stack = nn.TransformerDecoder(decoder_layer, n_transformer_blocks)
-        self.linear = nn.Linear(embed_dim, dataset.vocab_size)
+        """
+        YOUR CODE HERE (âŠƒï½¡â€¢Ìâ€¿â€¢Ì€ï½¡)âŠƒâ”âœ¿âœ¿âœ¿âœ¿âœ¿âœ¿
+        Create necessary layers
+        """
+        self.embedding = nn.Embedding(self.vocab_size, embed_size, dataset.pad_id)
+        self.rnn = rnn_type(embed_size, hidden_size, rnn_layers, batch_first=True)
+        self.linear = nn.Sequential(
+            nn.Linear(hidden_size, self.vocab_size),
+            nn.LeakyReLU(0.1)
+        )
 
     def forward(self, indices: torch.Tensor, lengths: torch.Tensor) -> torch.Tensor:
+        """
+        Compute forward pass through the model and
+        return logits for the next token probabilities
+        :param indices: LongTensor of encoded tokens of size (batch_size, length)
+        :param lengths: LongTensor of lengths of size (batch_size, )
+        :return: FloatTensor of logits of shape (batch_size, length, vocab_size)
+        """
+        # # This is a placeholder, you may remove it.
+        # logits = torch.randn(
+        #     indices.shape[0], indices.shape[1], self.vocab_size,
+        #     device=indices.device
+        # )
+        # h0 = torch.zeros(indices.shape[0], indices.shape[1], self.hidden_size)
         embeds = self.embedding(indices)
-        embeds = self.pos_encoding(embeds)
+        packed_embeds = pack_padded_sequence(embeds, lengths=lengths, batch_first=True, enforce_sorted=False)
 
-        l = embeds.shape[1]
-        mask = torch.triu(torch.ones((l, l)), diagonal=1)
-        res = self.decoder_stack(tgt=embeds, memory=embeds, tgt_mask=mask, memory_mask=mask)
-        res = self.linear(res)
-        return res
+        outp, _ = self.rnn(packed_embeds)  # h0 is zeros, outp is (batch, max_l, hidden)
+        outp, _ = pad_packed_sequence(outp, batch_first=True)
+        logits = self.linear(outp)  # (batch, max_l, vocab_size)
+        """
+        YOUR CODE HERE (âŠƒï½¡â€¢Ìâ€¿â€¢Ì€ï½¡)âŠƒâ”âœ¿âœ¿âœ¿âœ¿âœ¿âœ¿
+        Convert indices to embeddings, pass them through recurrent layers
+        and apply output linear layer to obtain the logits
+        """
+
+        return logits
 
     @torch.inference_mode()
     def inference(self, prefix: str = '', temp: float = 1.) -> str:
@@ -53,6 +73,8 @@ class TransformerLanguageModel(nn.Module):
         :return: generated text
         """
         self.eval()
+        # # This is a placeholder, you may remove it.
+        # generated = prefix + ', Ð° Ð¿Ð¾Ñ‚Ð¾Ð¼ ÐºÑƒÐ¿Ð¸Ð» Ð¼ÑƒÐ¶Ð¸Ðº ÑˆÐ»ÑÐ¿Ñƒ, Ð° Ð¾Ð½Ð° ÐµÐ¼Ñƒ ÐºÐ°Ðº Ñ€Ð°Ð·.'
         """
         YOUR CODE HERE (âŠƒï½¡â€¢Ìâ€¿â€¢Ì€ï½¡)âŠƒâ”âœ¿âœ¿âœ¿âœ¿âœ¿âœ¿
         Encode the prefix (do not forget the BOS token!),
@@ -65,45 +87,36 @@ class TransformerLanguageModel(nn.Module):
         device = next(self.embedding.parameters()).device
         tokens = torch.IntTensor([self.dataset.bos_id] + self.dataset.text2ids(prefix)).to(device)
 
-        # 2 stopping conditions: reaching max len or getting <eos> token
-        for i in range(tokens.shape[0], self.max_length):
-            embeds = self.embedding(tokens)
-            # print("emb shape", embeds.shape)
-            embeds = self.pos_encoding(embeds)
-            l = embeds.shape[0]
-            mask = torch.triu(torch.ones((l, l)), diagonal=1)
-            # mask = torch.triu(torch.ones((self.max_length, self.max_length)), diagonal=1)
-            # print(embeds.shape, mask.shape)
-            res = self.decoder_stack(tgt=embeds, memory=embeds, tgt_mask=mask, memory_mask=mask)
-            # print(res.shape)
-            res = self.linear(res)
+        # generate hidden for prefix
+        embeds = self.embedding(tokens)
+        _, hidden = self.rnn(embeds)
+        if type(hidden) == tuple:
+            logits = self.linear(hidden[0])
+        else:
+            logits = self.linear(hidden)
 
-            logits = res[i - 1, :]
-            new_tokens = Categorical(logits=logits / temp).sample()
-            tokens = torch.cat([tokens, torch.unsqueeze(new_tokens, dim=0)])
+        # sample new token from logits
+        new_tokens = Categorical(logits=logits / temp).sample()
+        tokens = torch.cat([tokens, new_tokens])
+
+        # 2 stopping conditions: reaching max len or getting <eos> token
+        while tokens.shape[0] < self.max_length:
             if new_tokens.item() == self.dataset.eos_id or new_tokens.item() == self.dataset.unk_id:
                 break
-            # print(tokens.shape)
 
-            # # process newly obtained token
-            # embeds = self.embedding(new_tokens)
-            # _, hidden = self.rnn(embeds, hidden)
-            # if type(hidden) == tuple:
-            #     logits = self.linear(hidden[0])
-            # else:
-            #     logits = self.linear(hidden)
-            # # sample the next token from logits
-            
-            # tokens = torch.cat([tokens, new_tokens])
+            # process newly obtained token
+            embeds = self.embedding(new_tokens)
+            _, hidden = self.rnn(embeds, hidden)
+            if type(hidden) == tuple:
+                logits = self.linear(hidden[0])
+            else:
+                logits = self.linear(hidden)
+            # sample the next token from logits
+            new_tokens = Categorical(logits=logits / temp).sample()
+            tokens = torch.cat([tokens, new_tokens])
 
         # decode result to a string
         return self.dataset.ids2text(tokens.squeeze()[1:-1])
-
-
-    def __str__(self):
-        model_parameters = filter(lambda p: p.requires_grad, self.parameters())
-        params = sum([torch.prod(torch.tensor(p.size())).item() for p in model_parameters])
-        return super().__str__() + f"\nTrainable parameters: {params:_}"
 
 
 if __name__ == "__main__":
