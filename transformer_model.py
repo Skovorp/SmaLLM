@@ -35,11 +35,14 @@ class TransformerLanguageModel(nn.Module):
         self.linear = nn.Linear(embed_dim, dataset.vocab_size)
 
     def forward(self, indices: torch.Tensor, lengths: torch.Tensor) -> torch.Tensor:
+        device = indices.device
         embeds = self.embedding(indices)
         embeds = self.pos_encoding(embeds)
 
         l = embeds.shape[1]
-        mask = torch.triu(torch.ones((l, l)), diagonal=1)
+        # mask = torch.log(torch.triu(torch.ones((l, l)))).to(device)
+        mask = torch.triu(torch.ones((l, l), device=device), diagonal=1).bool()
+
         res = self.decoder_stack(tgt=embeds, memory=embeds, tgt_mask=mask, memory_mask=mask)
         res = self.linear(res)
         return res
@@ -71,7 +74,8 @@ class TransformerLanguageModel(nn.Module):
             # print("emb shape", embeds.shape)
             embeds = self.pos_encoding(embeds)
             l = embeds.shape[0]
-            mask = torch.triu(torch.ones((l, l)), diagonal=1)
+            mask = torch.triu(torch.ones((l, l), device=device), diagonal=1).bool()
+            # mask = torch.log(torch.triu(torch.ones((l, l)))).to(device)
             # mask = torch.triu(torch.ones((self.max_length, self.max_length)), diagonal=1)
             # print(embeds.shape, mask.shape)
             res = self.decoder_stack(tgt=embeds, memory=embeds, tgt_mask=mask, memory_mask=mask)

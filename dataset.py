@@ -12,9 +12,9 @@ import json
 class TextDataset(Dataset):
     VAL_RATIO = 0.05
 
-    def __init__(self, data_file: str, train: bool = True, sp_model_prefix: str = None,
+    def __init__(self, data_dir: str, train: bool = True, sp_model_prefix: str = None,
                  vocab_size: int = 2000, normalization_rule_name: str = 'nmt_nfkc_cf',
-                 model_type: str = 'bpe', max_length: int = 128, limit=None):
+                 model_type: str = 'bpe', max_length: int = 128, limit=None, files_to_use=10, **kwargs):
         """
         Dataset with texts, supporting BPE tokenizer
         :param data_file: txt file containing texts
@@ -25,9 +25,14 @@ class TextDataset(Dataset):
         :param model_type: sentencepiece tokenizer model type
         :param max_length: maximal length of text in tokens
         """
-        with open(data_file, 'r') as f:
-            t = json.load(f)
-            texts = [el['story'] for el in t]
+
+        texts = []
+        for i, data_file in enumerate(os.listdir(data_dir)):
+            if i == files_to_use:
+                break
+            with open(os.path.join(data_dir, data_file), 'r') as f:
+                t = json.load(f)
+                texts.extend([el['story'] for el in t])
 
         if not os.path.isfile(sp_model_prefix + '.model'):
             # train tokenizer if not trained yet
@@ -115,7 +120,7 @@ class TextDataset(Dataset):
 
 
 if __name__ == "__main__":
-    config_path = '/home/ubuntu/smaLLLLLLLm/config.yaml'
+    config_path = '/home/ubuntu/SmaLLM/config.yaml'
     with open(config_path) as f:
         cfg = yaml.safe_load(f)
 
@@ -123,7 +128,18 @@ if __name__ == "__main__":
     train_set = TextDataset(**cfg['dataset'], train=True)
     # valid_set = TextDataset(data_file=cfg['dataset_path'], train=False, sp_model_prefix='bpe')
 
-    print(train_set[0])
+    # print(train_set[0])
+    # print(train_set.ids2text(train_set[0][0]))
+    # print("---------------")
+    # print(train_set[10])
+    # print(train_set.ids2text(train_set[10][0]))
+    # print("---------------")
+    # print(train_set[100])
+    # print(train_set.ids2text(train_set[100][0]))
+    # print("---------------")
+    # print(train_set.pad_id)
+
+    '/home/ubuntu/SmaLLM/saved/model_1.pth'
 
     # for _ in range(5):
     #     for dataset in (train_set, valid_set):

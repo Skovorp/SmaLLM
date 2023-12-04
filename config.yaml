@@ -1,17 +1,20 @@
 dataset: 
-  data_file: /home/ubuntu/data/data00.json
+  data_dir: /home/ubuntu/data
   sp_model_prefix: bpe
-  limit: null
   vocab_size: 4000
   max_length: 256
+  files_to_use: 1
+  train_limit: null
+  val_limit: 12800
 training:
-  batch_size: 16
+  batch_size: 256
   lr: 3.0e-4
   num_epochs: 1000
   warmup_steps: 500
-  epoch_size: 50
+  epoch_size: 1000
+  save_path: /home/ubuntu/SmaLLM/saved/model_fix_day.pth
 model:
-  embed_dim: 768
+  embed_dim: 512
   hidden_size: 2048
   n_transformer_blocks: 4
   n_heads: 8
