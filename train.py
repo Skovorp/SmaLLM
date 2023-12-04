@@ -97,7 +97,7 @@ if __name__ == "__main__":
     with open(config_path) as f:
         cfg = yaml.safe_load(f)
 
-    os.environ["WANDB_API_KEY"] = "9ce4b10bf35b56281619a07601ec9c274604c9f6"
+    os.environ["WANDB_API_KEY"] = "your_key_here"
     wandb.init(
     project="smallm",
     config=cfg
